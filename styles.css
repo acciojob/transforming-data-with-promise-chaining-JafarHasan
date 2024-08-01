@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+input{
+	width:200px;
+	height:30px;
+	outline:none;
+	background:#ccc;
+	font-size:20px;
+	border-radius:10px;
+}
